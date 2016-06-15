@@ -608,6 +608,324 @@ min-height: ;
 /*mar*/
 max-resolution: res;
 
+/*mir*/
+min-resolution: res;
+
+/*ori*/
+orientation: ;
+
+/*ori:l*/
+orientation: landscape;
+
+/*ori:p*/
+orientation: portrait;
+
+/*ol*/
+outline: ;
+
+/*ol:n*/
+outline: none;
+
+/*olo*/
+outline-offset: ;
+
+/*olw*/
+outline-width: ;
+
+/*olw:tn*/
+outline-width: thin;
+
+/*olw:m*/
+outline-width: medium;
+
+/*olw:tc*/
+outline-width: thick;
+
+/*ols*/
+outline-style: ;
+
+/*ols:n*/
+outline-style: none;
+
+/*ols:dt*/
+outline-style: dotted;
+
+/*ols:ds*/
+outline-style: dashed;
+
+/*ols:s*/
+outline-style: solid;
+
+/*ols:db*/
+outline-style: double;
+
+/*ols:g*/
+outline-style: groove;
+
+/*ols:r*/
+outline-style: ridge;
+
+/*ols:i*/
+outline-style: inset;
+
+/*ols:o*/
+outline-style: outset;
+
+/*olc*/
+outline-color: #000;
+
+/*olc:i*/
+outline-color: invert;
+
+/*bfv*/
+-webkit-backface-visibility: ;
+-moz-backface-visibility: ;
+-ms-backface-visibility: ;
+backface-visibility: ;
+
+/*bfv:h*/
+-webkit-backface-visibility: hidden;
+-moz-backface-visibility: hidden;
+-ms-backface-visibility: hidden;
+backface-visibility: hidden;
+
+/*bfv:v*/
+-webkit-backface-visibility: visible;
+-moz-backface-visibility: visible;
+-ms-backface-visibility: visible;
+backface-visibility: visible;
+
+/*bd*/
+border: ;
+
+/*bd+*/
+border: 1px solid #000;
+
+/*bd:n*/
+border: none;
+
+/*bdbk*/
+border-break: ;
+
+/*bdbk:c*/
+border-break: close;
+
+/*bdcl*/
+border-collapse: ;
+
+/*bdcl:c*/
+border-collapse: collapse;
+
+/*bdcl:s*/
+border-collapse: separate;
+
+/*bdc*/
+border-color: ;
+
+/*bdc:t*/
+border-color: transparent;
+
+/*bdi*/
+border-image: ;
+
+/*bdi:n*/
+-webkit-border-image: none;
+-o-border-image: none;
+border-image: none;
+
+/*bdti*/
+border-top-image: ;
+
+/*bdti:n*/
+border-top-image: none;
+
+/*bdri*/
+border-right-image: ;
+
+/*bdri:n*/
+border-right-image: none;
+
+/*bdbi*/
+border-bottom-image: ;
+
+/*bdli*/
+border-left-image: ;
+
+/*bdli:n*/
+border-left-image: none;
+
+/*bdci:c*/
+border-corner-image: continue;
+
+/*bdtli*/
+border-top-left-image: url();
+
+/*bdtli:n*/
+border-top-left-image: none;
+
+/*bdtli:c*/
+border-top-left-image: continue;
+
+/*bdbri*/
+border-bottom-right-image: ;
+
+/*bdbri:n*/
+border-bottom-right-image: none;
+
+/*bdbri:c*/
+border-bottom-right-image: continue;
+
+/*bdbli*/
+border-bottom-left-image: ;
+
+/*bdbli:n*/
+border-bottom-left-image: none;
+
+/*bdbli:c*/
+border-bottom-left-image: continue;
+
+/*bdf*/
+border-fit: ;
+
+/*bdf:c*/
+-webkit-border-fit: clip;
+border-fit: clip;
+
+/*bdf:r*/
+-webkit-border-fit: repeat;
+border-fit: repeat;
+
+/*bdf:sc*/
+-webkit-border-fit: scale;
+border-fit: scale;
+
+/*bdf:st*/
+-webkit-border-fit: stretch;
+border-fit: stretch;
+
+/*bdf:ow*/
+-webkit-border-fit: overwrite;
+border-fit: overwrite;
+
+/*bdf:of*/
+-webkit-border-fit: overflow;
+border-fit: overflow;
+
+/*bdf:sp*/
+-webkit-border-fit: space;
+border-fit: space;
+
+/*bdlen*/
+border-length: ;
+
+/*bdlen:a*/
+border-length: auto;
+
+/*bdsp*/
+border-spacing: ;
+
+/*bds*/
+border-style: ;
+
+/*bds:n*/
+border-style: none;
+
+/*bds:h*/
+border-style: hidden;
+
+/*bds:dt*/
+border-style: dotted;
+
+/*bds:s*/
+border-style: solid;
+
+/*bds:db*/
+border-style: double;
+
+/*bds:dtds*/
+border-style: dot-dash;
+
+/*bds:dtdtds*/
+border-style: dot-dot-dash;
+
+/*bds:w*/
+border-style: wave;
+
+/*bds:g*/
+border-style: groove;
+
+/*bds:r*/
+border-style: ridge;
+
+/*bds:i*/
+border-style: inset;
+
+/*bds:o*/
+border-style: outset;
+
+/*bdw*/
+border-width: ;
+
+/*bdtw*/
+border-top-width: ;
+
+/*bdrw*/
+border-right-width: ;
+
+/*bdbw*/
+border-bottom-width: ;
+
+/*bdlw*/
+border-left-width: ;
+
+/*bdt*/
+border-top: ;
+
+/*bdt+*/
+border-top: 1px solid #000;
+
+/*bt*/
+border-top: ;
+
+/*bdt:n*/
+border-top: none;
+
+/*bdts*/
+border-top-style: ;
+
+/*bdts:n*/
+border-top-style: none;
+
+/*bdtc*/
+border-top-color: ;
+
+/*bdtc:t*/
+border-top-color: transparent;
+
+/*bdrs*/
+border-radius: ;
+
+/*bdtrrs*/
+border-top-right-radius: ;
+
+/*bdtlrs*/
+border-top-left-radius: ;
+
+/*bdbrrs*/
+border-bottom-right-radius: ;
+
+/*bdblrs*/
+border-bottom-left-radius: ;
+
+/*bg*/
+background: ;
+
+/*bg+*/
+background: #fff url() 0 0 no-repeat;
+
+
+
+
 
 
 
